@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">frontend developer from Buenos Aires, Argentina</h3>
+<h3>frontend developer from Buenos Aires, Argentina</h3>
 
 - 🌱 I’m currently learning **backend development & testing automation**
 
-- 👨‍💻 All of my projects are available at [on this page](on this page)
+- 👨‍💻 All of my projects are available on this page
 
-- 💬 Ask me about **whatever you want**
+- 💬 Ask me about whatever you want
 
 - 📫 How to reach me **lucasxrodriguez@hotmail.com**
 
