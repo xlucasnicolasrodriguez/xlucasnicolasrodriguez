@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">hi there👋</h1>
+<h2>i'm Lucas Kent</h2>
 <h3>frontend developer from Buenos Aires, Argentina</h3>
 
 - 🌱 I’m currently learning **backend development & testing automation**
